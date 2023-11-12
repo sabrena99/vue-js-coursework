@@ -46,10 +46,3 @@ The project focuses on the front-end implementation without the need for backend
 - Validation ensures that the name contains letters only, and the phone number contains numbers only.
 
 
-
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/after-school-classes.git
